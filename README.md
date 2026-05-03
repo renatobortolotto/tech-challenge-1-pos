@@ -94,12 +94,6 @@ Execute o notebook:
 jupyter nbconvert --to notebook --execute notebooks/eda_modelagem_nps.ipynb --inplace
 ```
 
-Opcionalmente, recrie o notebook a partir do script gerador:
-
-```bash
-python3 scripts/build_notebook.py
-```
-
 Os dados numericos usados nos graficos foram exportados em CSV em
 `reports/chart_data/`. O arquivo `00_manifesto_dados_graficos.csv` mapeia cada
 grafico aos respectivos arquivos numericos.
@@ -122,8 +116,6 @@ reports/
   figures/
   slides_storytelling.md
   roteiro_video.md
-scripts/
-  build_notebook.py
 ```
 
 ## Limitações
