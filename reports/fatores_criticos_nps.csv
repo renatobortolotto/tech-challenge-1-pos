@@ -1,0 +1,18 @@
+fator,faixa,clientes,nps_medio,taxa_detratores,recompra_30d,atraso_medio,reclamacoes_medias
+delay_bucket,sem atraso,277,6.86,36.46,33.94,0.0,2.96
+delay_bucket,1 dia,615,5.55,59.67,14.8,1.0,4.14
+delay_bucket,2-3 dias,1171,4.07,81.81,2.73,2.45,4.28
+delay_bucket,4-7 dias,434,2.01,97.24,0.23,4.52,4.56
+delay_bucket,8+ dias,3,0.0,100.0,0.0,8.0,4.33
+complaints_bucket,0,23,8.52,4.35,69.57,0.0,0.0
+complaints_bucket,1,122,7.77,8.2,42.62,1.02,1.0
+complaints_bucket,2,277,6.05,43.32,19.49,1.8,2.0
+complaints_bucket,3+,2078,3.91,82.77,4.62,2.33,4.67
+service_contacts_bucket,0,554,5.54,59.21,17.87,2.19,2.51
+service_contacts_bucket,1,816,4.66,70.34,9.19,2.26,3.57
+service_contacts_bucket,2,640,4.12,79.06,5.31,2.14,4.65
+service_contacts_bucket,3+,490,2.94,90.41,2.04,2.13,6.32
+resolution_bucket,0-2 dias,629,5.04,64.23,12.88,2.21,4.08
+resolution_bucket,3-5 dias,619,4.51,73.18,10.18,2.19,4.17
+resolution_bucket,6-10 dias,1038,4.04,78.42,6.26,2.2,4.2
+resolution_bucket,11+ dias,214,3.68,84.11,4.21,2.07,4.06

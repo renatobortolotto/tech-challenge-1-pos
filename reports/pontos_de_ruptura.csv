@@ -1,0 +1,7 @@
+variavel,limite,clientes_ate_limite,clientes_acima_limite,taxa_detrator_ate_limite,taxa_detrator_acima_limite,lift_pontos_percentuais
+complaints_count,2,422,2078,31.04,82.77,51.73
+delivery_delay_days,0,277,2223,36.46,78.72,42.26
+customer_service_contacts,2,2010,490,70.05,90.41,20.36
+resolution_time_days,0,208,2292,60.1,75.31,15.21
+delivery_time_days,2,203,2297,77.34,73.75,-3.59
+delivery_attempts,2,1662,838,75.27,71.6,-3.67

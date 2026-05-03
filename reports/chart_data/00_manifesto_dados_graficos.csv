@@ -1,0 +1,13 @@
+grafico,arquivo,conteudo
+01_distribuicao_nps.png,01a_distribuicao_classes_nps.csv,contagem e percentual por classe de NPS
+01_distribuicao_nps.png,01b_distribuicao_notas_nps.csv,contagem e percentual por nota de NPS arredondada em 1 decimal
+01_distribuicao_nps.png,01c_histograma_nps_score_bins_20.csv,"bins, centros e contagens do histograma de NPS com 20 bins"
+02_correlacoes_nps.png,02a_correlacoes_nps_completa.csv,correlacao de todas as variaveis numericas com nps_score
+02_correlacoes_nps.png,02b_correlacoes_nps_top12.csv,top 12 correlacoes exibidas no grafico
+03_fatores_criticos.png,03_fatores_criticos_taxa_detratores.csv,"faixas operacionais, clientes, NPS medio e taxa de detratores"
+04_avaliacao_modelo.png,04a_matriz_confusao_melhor_modelo.csv,valores absolutos da matriz de confusao
+04_avaliacao_modelo.png,04b_curva_roc_melhor_modelo.csv,"pontos FPR, TPR e thresholds da curva ROC"
+04_avaliacao_modelo.png,04c_predicoes_teste_melhor_modelo.csv,"classe real, classe prevista e probabilidade de detrator por amostra de teste"
+04_avaliacao_modelo.png,04d_resultados_modelos.csv,metricas comparativas dos modelos treinados
+05_importancia_variaveis.png,05a_importancia_variaveis_completa.csv,importancia de todas as variaveis do modelo operacional
+05_importancia_variaveis.png,05b_importancia_variaveis_top12.csv,top 12 importancias exibidas no grafico

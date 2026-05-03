@@ -1,0 +1,19 @@
+segmento,faixa,clientes,nps_medio,taxa_detratores,recompra_30d,atraso_medio,reclamacoes_medias
+customer_region,Centro-Oeste,468,4.21,74.36,8.33,2.22,4.18
+customer_region,Nordeste,485,4.42,74.02,7.63,2.19,4.16
+customer_region,Norte,506,4.38,74.51,7.91,2.14,4.11
+customer_region,Sudeste,520,4.37,74.62,8.85,2.22,4.24
+customer_region,Sul,521,4.49,72.74,10.75,2.17,4.06
+age_band,18-29,561,4.54,73.44,8.91,2.15,4.09
+age_band,30-39,498,4.22,76.51,8.23,2.23,4.19
+age_band,40-49,496,4.27,74.6,7.06,2.26,4.18
+age_band,50-59,482,4.37,72.2,9.54,2.2,4.22
+age_band,60+,463,4.47,73.43,9.94,2.1,4.09
+tenure_band,ate 6m,122,4.17,77.05,5.74,2.14,4.25
+tenure_band,7-24m,367,4.48,72.75,8.99,2.24,4.16
+tenure_band,25-60m,721,4.35,74.06,7.21,2.2,4.2
+tenure_band,60m+,1290,4.39,74.11,9.77,2.17,4.11
+order_value_band,baixo valor,625,4.22,76.0,7.52,2.15,4.16
+order_value_band,medio-baixo,625,4.49,73.44,9.6,2.17,4.13
+order_value_band,medio-alto,625,4.25,74.88,7.84,2.3,4.14
+order_value_band,alto valor,625,4.56,71.84,9.92,2.13,4.17

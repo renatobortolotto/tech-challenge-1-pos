@@ -1,0 +1,32 @@
+{
+  "objetivo": "Prever risco de cliente detrator de NPS",
+  "target": "is_detractor = 1 quando nps_score <= 6",
+  "cenario_escolhido": "operacional_sem_vazamento",
+  "modelo_escolhido": "LogisticRegression",
+  "features": [
+    "customer_age",
+    "customer_region",
+    "customer_tenure_months",
+    "order_value",
+    "items_quantity",
+    "discount_value",
+    "payment_installments",
+    "delivery_time_days",
+    "delivery_delay_days",
+    "freight_value",
+    "delivery_attempts",
+    "customer_service_contacts",
+    "resolution_time_days",
+    "complaints_count"
+  ],
+  "random_state": 42,
+  "test_size": 0.25,
+  "metricas_teste": {
+    "accuracy": 0.784,
+    "precision_detrator": 0.9227,
+    "recall_detrator": 0.7732,
+    "f1_detrator": 0.8414,
+    "roc_auc": 0.873
+  },
+  "observacao_vazamento": "repeat_purchase_30d e csat_internal_score foram excluidas do modelo operacional por risco de representarem sinais posteriores ou proximos demais da satisfacao."
+}

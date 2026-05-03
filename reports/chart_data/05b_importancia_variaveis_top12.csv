@@ -1,0 +1,13 @@
+variavel,importancia
+complaints_count,1.537793706486633
+delivery_delay_days,1.3939959957735812
+resolution_time_days,0.5782952199689831
+customer_region_Centro-Oeste,0.21876839918112068
+customer_region_Norte,0.17501142379251128
+order_value,0.15273219000964203
+customer_service_contacts,0.12248643294554792
+customer_region_Nordeste,0.11987670943871284
+customer_region_Sul,0.11588759514139402
+delivery_attempts,0.09167571009990387
+freight_value,0.08537520246137457
+customer_tenure_months,0.060636364081031596
